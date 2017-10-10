@@ -1,4 +1,4 @@
-// misspell: zeebra
+// misspell: zebra
 public class Misspell
 {
 }

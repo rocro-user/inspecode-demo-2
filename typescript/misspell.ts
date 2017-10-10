@@ -1,2 +1,2 @@
-// misspell: langauge
+// misspell: language
 var a = a => {};

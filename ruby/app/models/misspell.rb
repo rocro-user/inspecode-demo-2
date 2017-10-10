@@ -1,3 +1,3 @@
-# misspell: langauge
+# misspell: language
 class Misspell
 end

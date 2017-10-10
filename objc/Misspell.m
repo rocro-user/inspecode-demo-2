@@ -2,7 +2,7 @@
 
 #include <Foundation/Foundation.h>
 
-// misspell: langauge
+// misspell: language
 NSString *misspell(NSString *filePath) {
 	return filePath
 }

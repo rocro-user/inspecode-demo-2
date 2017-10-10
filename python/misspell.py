@@ -1,2 +1,2 @@
-# misspell: zeebra
+# misspell: zebra
 print('Hello, World')

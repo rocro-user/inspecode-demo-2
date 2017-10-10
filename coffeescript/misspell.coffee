@@ -1,4 +1,4 @@
-# misspell: zeebra
+# misspell: zebra
 hello = ->
     console.log("Hello, World")
 

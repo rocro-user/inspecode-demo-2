@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 public class Misspell
 {
 
-/// misspell: pacakge
+/// misspell: package
 private void F()
 {
 }

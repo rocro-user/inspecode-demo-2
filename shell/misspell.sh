@@ -1,4 +1,4 @@
 #!/bin/sh
 
-# misspell: pacakge
+# misspell: package
 echo "Hello, World"

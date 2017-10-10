@@ -1,3 +1,3 @@
-// misspell: pacakge
+// misspell: package
 function misspell() 
 {}

@@ -1,5 +1,5 @@
 namespace misspell {
-// misspell: langauge
+// misspell: language
 void f() {
 }
 }

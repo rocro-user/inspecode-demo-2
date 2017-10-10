@@ -1,6 +1,6 @@
 object Misspell {
 
-  // misspell: pacakge
+  // misspell: package
   def f(args: Array[String]) {
     println("Hello, world!")
   }

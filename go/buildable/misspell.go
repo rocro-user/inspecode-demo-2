@@ -1,4 +1,4 @@
 package buildable
 
-// misspell: pacakge
+// misspell: package
 func _() {}

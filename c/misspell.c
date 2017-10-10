@@ -1,3 +1,3 @@
-// misspell: langauge
+// misspell: language
 void misspell() {
 }
