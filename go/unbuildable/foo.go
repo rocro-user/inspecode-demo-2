@@ -1,15 +1,14 @@
-
 // main package!
 
 package main
 
 import (
-  "fmt"
-  "strings"
+	"fmt"
+	"strings"
 )
 
-func foo_bar() {}
+func fooBar() {}
 
-func main( ) {
-fmt.Println("foo")
+func main() {
+	fmt.Println("foo")
 }
