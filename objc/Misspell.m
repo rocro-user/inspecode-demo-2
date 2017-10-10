@@ -4,5 +4,5 @@
 
 // misspell: langauge
 NSString *misspell(NSString *filePath) {
-    return filePath
+	return filePath
 }

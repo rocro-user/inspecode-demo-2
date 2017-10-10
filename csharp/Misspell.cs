@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 public class Misspell
 {
 
-    /// misspell: pacakge
-    private void F()
-    {
-    }
+/// misspell: pacakge
+private void F()
+{
+}
 
 }

@@ -1,4 +1,5 @@
 namespace misspell {
 // misspell: langauge
-void f() {}
+void f() {
+}
 }
