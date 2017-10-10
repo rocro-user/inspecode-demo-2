@@ -7,10 +7,10 @@ extern "C" {
 
 class A {
 public:
-  A();
-  virtual ~A();
+    A();
+    virtual ~A();
 
-  virtual int foo(int);
+    virtual int foo(int);
 };
 
 #ifdef __cplusplus

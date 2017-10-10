@@ -31,9 +31,9 @@ public class Example
             Console.WriteLine("Example C# - AStyle " + version);
 
         // process the files
-        for(int i = 0; i < fileName.Length; i++){   // get the text to format
-        string filePath = GetTestDirectoryPath() + fileName[i];
-        string textIn = GetText(filePath);
+        for(int i = 0; i < fileName.Length; i++) {  // get the text to format
+            string filePath = GetTestDirectoryPath() + fileName[i];
+            string textIn = GetText(filePath);
 
             // call the Artistic Style formatting function
             // does not need to terminate on an error
