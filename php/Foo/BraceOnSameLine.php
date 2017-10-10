@@ -23,13 +23,15 @@ namespace Foo;
  * @license   http://www.gnu.org/copyleft/gpl.html GNU General Public License
  * @link      http://example.com/
  */
-class BraceOnSameLine {
+class BraceOnSameLine
+{
     /**
      * Function comment.
      *
      * @return void
      */
-    public function sameLineBrace() {
+    public function sameLineBrace() 
+    {
         echo "Hello!\n";
     }
 }

@@ -1,2 +1,3 @@
 // misspell: pacakge
-function misspell() {}
+function misspell() 
+{}

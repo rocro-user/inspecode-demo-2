@@ -33,8 +33,10 @@ class CallSignature
     public function main()
     {
         echo "Hello!\n";
-        $this->funcArgs('foo',
-            'bar');
+        $this->funcArgs(
+            'foo',
+            'bar'
+        );
     }
 
     /**
