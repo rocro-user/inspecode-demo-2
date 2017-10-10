@@ -1,3 +1,2 @@
 // misspell: langauge
-void misspell() {
-}
+void misspell() {}
