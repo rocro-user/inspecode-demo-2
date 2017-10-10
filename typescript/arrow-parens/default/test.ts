@@ -23,7 +23,7 @@ const validAsync = async (param: any) => {};
 const validAsync = async (param) => {};
 
 // invalid case
-var e = (a => {})(1);
+var e = ((a) => {})(1);
          ~            [Parentheses are required around the parameters of an arrow function definition]
-var f = ab => {};
+var f = (ab) => {};
         ~~             [Parentheses are required around the parameters of an arrow function definition]
