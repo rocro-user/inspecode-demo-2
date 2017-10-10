@@ -4,13 +4,13 @@ var b bool
 
 func _() {
 	var x int
-	x = 0
+
 	_ = x
 }
 
 func _() {
 	var x int
-	x = 0
+
 	if b {
 		_ = x
 	}
@@ -24,7 +24,7 @@ func _() {
 
 func _() {
 	var x int
-	x = 0 //x
+	//x
 	x = 0
 	_ = x
 }
