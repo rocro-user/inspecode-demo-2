@@ -5,27 +5,22 @@ class CC {
             if (a1 == b1                 // 3
                 && c1 == d1) {   // 4
                fiddle();
-            }
-            else if (a2 == b2            // 5
+            } else if (a2 == b2            // 5
                       || c1 < d1) {   // 6
                 fiddle();
-            }
-            else {
+            } else {
                 fiddle();
             }
-       }
-        else if (c == d) {               // 7
+       } else if (c == d) {               // 7
             while (c == d) {             // 8
                 fiddle();
             }
-        }
-         else if (e == f) {
+        } else if (e == f) {
             for (n = 0; n < h         // 9
                     || n < 6; n++) {  // 10
                 fiddle();
             }
-        }
-        else {
+        } else {
             switch (z) {
               case 1:                    // 11
                     fiddle();
