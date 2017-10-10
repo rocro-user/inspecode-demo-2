@@ -1,0 +1,22 @@
+inspecode:
+  astyle: auto-fix
+  autopep8: auto-fix
+  checkstyle: auto-fix
+  clang-format: auto-fix
+  eslint: auto-fix
+  gofmt: auto-fix
+  goimports: auto-fix
+  golint: auto-fix
+  gosimple:
+    input: go/buildable
+    auto-fix: true
+  kibit: auto-fix
+  misspell: auto-fix
+  phpcs: auto-fix
+  pmd: auto-fix
+  prettier: auto-fix
+  rubocop: auto-fix
+  tidy: auto-fix
+  tslint: auto-fix
+  uncrustify: auto-fix
+  yapf: auto-fix

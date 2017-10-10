@@ -1,0 +1,26 @@
+.navigate-container {
+  position: fixed;
+  width: 100%;
+  z-index: 11; // should be greater than the z-index of latest header
+  top: $HEADER_HEIGHT + 1.0rem;
+
+  .navigate-wrapper {
+    width: 100%;
+    max-width: $HEADER_MAX_WIDTH;
+    margin: 0 auto;
+
+    .navigate-bubble {
+      font-size: 1.6rem;
+      font-weight: 300;
+      @include bubble(
+        #FFFFFF, #CCCCCC,
+        "top", 25%,
+        1.0rem, 11);
+
+      &.navigate-ref {
+        max-width: 30.2rem;
+        left: 28rem;
+      }
+    }
+  }
+}
